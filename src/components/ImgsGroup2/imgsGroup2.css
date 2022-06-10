@@ -1,0 +1,17 @@
+.container3 {
+    text-align: center;
+    max-height: 400px;
+    background-color: #B2DECD;
+}
+
+.imgGroup {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.picture-text {
+    font-family: 'Quicksand', sans-serif;
+}

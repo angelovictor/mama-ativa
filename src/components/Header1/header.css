@@ -1,0 +1,47 @@
+Header {
+    font-family: "Quicksand", sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100vw !important;
+    height: 10vh !important;
+    background-color: #9098e0;
+}
+
+.logo {
+    height: 4rem;
+}
+
+.menu-options {
+    font-weight: 500;
+    font-size: 20px;
+    text-decoration: none;
+    color: #fff;
+    cursor: pointer;
+    transition-duration: 0.5s;
+}
+
+.menu-options:hover {
+    font-weight: 500;
+    font-size: 23px;
+    color: #fff;
+    transition-duration: 0.5s;
+}
+
+.register-button {
+    background-color: #b2decd;
+    font-weight: bold;
+    color: #494c4e;
+    border: 0;
+    border-radius: 8px;
+    width: 150px;
+    padding: 10px;
+    cursor: pointer;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transition-duration: 0.4s;
+}
+
+.register-button:hover {
+    background-color: #4caf50;
+    color: #fff;
+}
