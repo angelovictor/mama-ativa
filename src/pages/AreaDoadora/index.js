@@ -6,12 +6,12 @@ import "./areaDoadora.css";
 export default class AreaDoadora extends Component {
   render() {
     return (
-      <di>
+      <div>
         <Header2 />
         <div className="areaDoadora">
           <CarroselDoadora />
         </div>
-      </di>
+      </div>
     );
   }
 };

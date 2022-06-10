@@ -1,7 +1,7 @@
 import axios from "axios";
 import authHeader from "./authHeader";
 
-const API_URL = "http://localhost:8080/api/";
+const API_URL = "https://mama-ativa-api.azurewebsites.net/api/";
 
 class UserService {
   getPublicContent() {

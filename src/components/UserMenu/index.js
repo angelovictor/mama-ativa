@@ -58,7 +58,7 @@ const UserMenu = () => {
                         </MenuItem>
                     </Link>
 
-                    <Link to='/configuracoes' style={{ textDecoration: 'none' }}>
+                    <Link to='/minhasdoacoes' style={{ textDecoration: 'none' }}>
                         <MenuItem
                             key="Minhas Doações"
                             onClick={handleClose}>

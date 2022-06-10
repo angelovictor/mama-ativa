@@ -157,10 +157,10 @@ body {
 }
 
 .avatar-add-photo p {
-    margin: 0;
-    font-size: 0.8em;
-    font-weight: 600;
-    color: #737777;
+    margin: 0 !important;
+    font-size: 0.8em !important;
+    font-weight: 600 !important;
+    color: #737777 !important;
 }
 
 
